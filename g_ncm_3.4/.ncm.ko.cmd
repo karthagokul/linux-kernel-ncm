@@ -1,0 +1,1 @@
+cmd_/home/karthgo/Workspace/ivi-connect-misc/ncm/host_3.4/ncm.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-17-generic/scripts/module-common.lds --build-id  -o /home/karthgo/Workspace/ivi-connect-misc/ncm/host_3.4/ncm.ko /home/karthgo/Workspace/ivi-connect-misc/ncm/host_3.4/ncm.o /home/karthgo/Workspace/ivi-connect-misc/ncm/host_3.4/ncm.mod.o
